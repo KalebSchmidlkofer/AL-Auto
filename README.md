@@ -1,5 +1,5 @@
 # ALAuto
-Updated and semi-rewritten version of [azurlane-auto](https://github.com/perryhuynh/azurlane-auto).  
+Updated and semi-rewritten version of [Egoistically/ALAuto](https://github.com/perryhuynh/azurlane-auto).
 Automates Combat, Commissions, Missions, Enhancement, Retiring, Skill Levelling, Dorm Refilling and Dorm Cleaning.
 
 **This bot was made for EN server. However, it's now possible to use it on JP thanks to [@phantasmalmira](https://github.com/phantasmalmira) ([#59](https://github.com/Egoistically/ALAuto/pull/59)). Other servers won't work with current assets.**
